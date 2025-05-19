@@ -6,7 +6,7 @@ To write a C program to calculate the area of a triangle using pointer.
 ## Algorithm
 1. 
 2. 
-3. 
+3. aka
 4.  
 5.   
 
